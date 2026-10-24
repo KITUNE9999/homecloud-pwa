@@ -8,3 +8,8 @@
   Content-Security-Policy: default-src 'none'; script-src 'self' 'wasm-unsafe-eval'; connect-src 'self' wss:; style-src 'self'; img-src 'self'; manifest-src 'self'; worker-src 'self'; base-uri 'self'; form-action 'none'
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
+
+/v/0.2.0/*
+  Content-Security-Policy: default-src 'none'; script-src 'self' 'wasm-unsafe-eval'; connect-src 'self' wss:; style-src 'self'; img-src 'self' blob:; manifest-src 'self'; worker-src 'self'; base-uri 'self'; form-action 'none'
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
