@@ -1,0 +1,10 @@
+# HomeCloud PWA: the headers of Cloudflare Pages (GitHub Pages does nothing with this file;
+# the CSP that counts is the meta of index.html of each version, the same string).
+# A block for each version, with its CSP; a new version adds its block at the end.
+/v/:version/sw.js
+  Cache-Control: no-cache
+
+/v/0.1.0/*
+  Content-Security-Policy: default-src 'none'; script-src 'self' 'wasm-unsafe-eval'; connect-src 'self' wss:; style-src 'self'; img-src 'self'; manifest-src 'self'; worker-src 'self'; base-uri 'self'; form-action 'none'
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer

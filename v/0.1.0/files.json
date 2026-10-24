@@ -1,0 +1,57 @@
+[
+  {
+    "path": "app.js",
+    "size": 13703,
+    "sha256": "dbae5c5e831391a3a1cd0a4b430261eabde4781297b31d6de311afdefe54fd7e"
+  },
+  {
+    "path": "homecloud.wasm",
+    "size": 15294743,
+    "sha256": "52a026c75ad0019db22050a67ed95bd6f28c9ec1805875d391fca5c83a65441d"
+  },
+  {
+    "path": "i/index.html",
+    "size": 882,
+    "sha256": "47ea993d45a8fa2d99d6afadf9683a757505cb4eb9462e3e2404bf3f2e54db78"
+  },
+  {
+    "path": "icon.svg",
+    "size": 206,
+    "sha256": "ef5d7d99257bba3c485f9fb87c1988ece04c152657d19c2b14fd96c8a1f5776b"
+  },
+  {
+    "path": "index.html",
+    "size": 882,
+    "sha256": "47ea993d45a8fa2d99d6afadf9683a757505cb4eb9462e3e2404bf3f2e54db78"
+  },
+  {
+    "path": "manifest.webmanifest",
+    "size": 282,
+    "sha256": "baf239cc0c0ac1801ae9d7b36f1aa4f350c89d57087932ebf04020cc9f838901"
+  },
+  {
+    "path": "messages.json",
+    "size": 7494,
+    "sha256": "8c13596b22937120fc24969db43ef5268b9be7a74cab30c8f2e868685fc5e127"
+  },
+  {
+    "path": "save.js",
+    "size": 9577,
+    "sha256": "caa7bcbf5672f59210378f85819c81b58919cf2d76df22e3f717e3cfeae68b62"
+  },
+  {
+    "path": "style.css",
+    "size": 838,
+    "sha256": "3e99e7c6d2434ee0a5aeda700ca71326093e42eedfb42eb6ee764b0dcfb396b4"
+  },
+  {
+    "path": "sw.js",
+    "size": 4078,
+    "sha256": "0646ecdcbacca7a4a18c2cef5e0d3774e8689769c7f8d7e884cb37483d18098c"
+  },
+  {
+    "path": "wasm_exec.js",
+    "size": 16992,
+    "sha256": "0c949f4996f9a89698e4b5c586de32249c3b69b7baadb64d220073cc04acba14"
+  }
+]
